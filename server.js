@@ -4,7 +4,7 @@ var app = express()
 //port definition
 app.set('port', process.env.PORT || 5000)
 
-app.use(express.static('webapp/test'))
+app.use(express.static('webapp.test'))
 
 //server starting
 var server = app.listen(app.get('port'), function () {
