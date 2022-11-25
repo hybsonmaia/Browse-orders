@@ -1,7 +1,7 @@
 [
   {
     "CustomerID": "TORTU",
-    "CompanyName": "Tortuga Restaurante"
+    "CompanyName": "Lymhurst"
   },
   {
     "CustomerID": "ALFKI",
@@ -9,14 +9,14 @@
   },
   {
     "CustomerID": "AROUT",
-    "CompanyName": "Around the Horn"
+    "CompanyName": "Beckwith Park"
   },
   {
     "CustomerID": "BERGS",
-    "CompanyName": "Berglunds snabbköp"
+    "CompanyName": "Kiminami restaurant"
   },
   {
     "CustomerID": "BOTTM",
-    "CompanyName": "Bottom-Dollar Markets"
+    "CompanyName": "NIC-LABS"
   }
 ]
